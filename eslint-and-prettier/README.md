@@ -1,4 +1,4 @@
-# Code-style configs
+# Linter configs
 
 ## Instalación 💾
 
